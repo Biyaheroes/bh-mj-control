@@ -1,0 +1,7 @@
+<mjml>
+	<mj-body>
+		<mj-container>
+			<mj-control label="This is a control"/>
+		</mj-container>
+	</mj-body>
+</mjml>
