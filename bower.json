@@ -1,7 +1,8 @@
 {
 	"name": "bh-mj-control",
 	"description": "Biyaheroes MJML Control Component",
-	"main": ".filter.js",
+	"main": "control.deploy.js",
+	"support": "control.module.jsx",
 	"authors": [
 		"Biyaheroes Developer <developers@biyaheroes.com>"
 	],

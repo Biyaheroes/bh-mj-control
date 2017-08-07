@@ -4,7 +4,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import Control from "./control.js";
+import Control from "./control.module.jsx";
 
 ReactDOM.render( 
 		<Control
